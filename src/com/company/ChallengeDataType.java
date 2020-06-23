@@ -1,15 +1,17 @@
-/*Caroline Anderson
+package com.company;/*Caroline Anderson
 Make int, double, String
 Import scanner, make it so that it scans 3 times
 print i + the int variable
 print d + the int variable
  */
-package com.company;
-public static Scanner keyboard = public static new Scanner(System.in)
+import java.util.*;
+
+public class ChallengeDataType{
+public static Scanner keyboard = new Scanner(System.in);
 public static void main (String[] args) {
-    int i =4;
-    double d =4.0;
-    String s ="Greenhill";
+    int i = 4;
+    double d = 4.0;
+    String s = "Greenhill";
     System.out.println("Type your inputs here:");
 
     System.out.print("Integer: ");
@@ -17,9 +19,12 @@ public static void main (String[] args) {
     System.out.print("Double: ");
     double myDouble = keyboard.nextDouble();
     System.out.print("Phrase: ");
-    int myInt = keyboard.nextInt();
+    keyboard.nextLine();
     String myString = keyboard.nextLine();
-    System.out.printf("\n%2d " ,myInt +i);
-    System.out.printf()
+    System.out.printf("\n%2d ", myInt + i);
+    System.out.printf("\n%.1f", myDouble + d);
+    System.out.printf("n%2s ", s + " " + myString);
+
+}
 
         }
