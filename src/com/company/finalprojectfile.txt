@@ -1,0 +1,24 @@
+5 83.0 mint oil 83 71 76 74 hazelnuts 4.0 32.8 cheese
+pasta 3.9 asparagus 100 mango 89.7 1 21 29.6 32 85 pizza chicken 90 60.0 12.5 50 steak 42 86.0
+2 ravioli flour 86 22.8 69 fish 54.0 27.6 kale beets 99 99.9 31 39.7 23 tofu 9.6 8.3 apples
+3 prawns 24.8 8.4 12.9 59 sugar hamburger hotdog 5.2 3.1 87.1 carrots olives guava 1. 9 2.1 figs 4.1
+pasta 3.9 asparagus 100 mango 89.7 1 21 29.6 32 85 pizza chicken 90 60.0 12.5 50 steak 42 86.0
+2 ravioli flour 86 22.8 69 fish 54.0 27.6 kale beets 99 99.9 31 39.7 23 tofu 9.6 8.3 apples
+3 prawns 24.8 8.4 12.9 59 sugar hamburger hotdog 5.2 3.1 87.1 carrots olives guava 1. 9 2.1 figs 4.1
+5 83.0 mint oil 83 71 76 74 hazelnuts 4.0 32.8 cheese 54 78.3 potato onion cookie 34.5 cupcake 2.3
+6 9.0 4.6 70 40 almond cashew 24 64.5 98.3 97 rice peas 73 45 50 64.8 grapes orange 56
+7 4 21 56 celery pepper peach 76.9 32.7 54.2 95.6 64.8 1.0 sugar eggs beans 65.2 87 43 98
+8 76.3 turkey asparagus cake 56.4 91 53 49 melon 43 56.0 32.9 12.7 mustard ketchup 25 35 45.8 29.3
+9 salt soda 54.8 45.5 9.5 17.0 17 edamame lentils arugula 13.4 93.0 93 42 14.5 87 53 clementine brownies
+10 2 9 1 zucchini pancakes prunes 54 32 37 75 45 93 garlic caprese 54.1 93.5 49 65 93
+11 iguana 85 30.0 20.0 20 60.0 60 rigatoni spaghetti sauce salsa chips parsley 54 13.5 93.7 14 36 32
+12 13 14 15 16 17 18 19 20 56 starbucks coffee soup penne cheddar parmesan 23 30 marinara cheeseburger
+veggieburger 26 98 24.5 tea 92.3 boba duck 90.3 13.9 54.3 21 94 70 92.3 34 donuts croissant pastry strawberry
+banana blueberry 13 94.6 lemon lime pomegranite lettuce 23 63 romaine iceberg leaf butter brusselsprouts brocoli 13.5 13.7 93 56
+cauliflower balsamic russian ranch italian cesear 13.3 10.3 45 51 59 french vinegar vinaigrette mayo mayonaise 93 65 123 40
+stuffing coleslaw crouton scallions 38 91 3.4 40 41 53 sausage 50 caramel sesame soy 59 60 squash pumkin steak
+beef nutmeg 90.3 64.2 12.6 39.9 eggnog mint 12.4 pie empenada calzon chocolate custard vanilla icecream 383 dates 68.3 12.4
+chickpeas buns quiche yogurt wasabi sushi crab rolls bread salmon 43.2 97.0 83 68 13.0 cod 133 01.0 10 avacado
+risotto crepes gnocchi mushroom 54.2 91.9 venicont 139 98.5 02.0 icing 38.0 cherry sprinkles 39.0 54 chocolatechips 65 miso 21
+sourdough baguette rie biscuit 42 43 peppercorn water 76.9 43.0 92.0 currants buttermilk 94 20 87 scones 93 87 86
+84 capers jam jelly 67 3.9 50.0 4.6 93 12.0 16 10.1 95.7 pesto raisins cheesecake coconut wonton marscarpone tirmasu

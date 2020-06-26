@@ -1,0 +1,18 @@
+------------------------------
+        Welcome to...
+
+
+******THE GUESSING GAME******
+------------------------------
+Try to guess a word or number
+that is included in a list of
+*400* words and numbers!!!
+------------------------------
+The theme for the words is...
+
+           FOOD
+
+------------------------------
+Remember that decimals in
+numbers are in play!
+Have fun and let's play!
